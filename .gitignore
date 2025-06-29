@@ -1,0 +1,35 @@
+# Build artifacts
+*.o
+*.elf
+*.a
+*.iso
+
+# PS2 specific files
+*.irx
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependencies (if using package managers)
+node_modules/
