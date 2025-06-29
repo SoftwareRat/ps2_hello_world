@@ -1,6 +1,16 @@
 # PlayStation 2 Hello World Homebrew
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PS2 Homebrew](https://img.shields.io/badge/PS2-Homebrew-blue.svg)](https://github.com/ps2dev)
+
 A simple "Hello World" homebrew application for PlayStation 2 using PS2SDK and gsKit.
+
+## 🎮 Features
+
+- **Graphics Version**: 2D graphics with animated elements using gsKit
+- **Console Version**: Text-based output for debugging
+- **Cross-platform**: Works on real PS2 hardware and PCSX2 emulator
+- **Well-documented**: Comprehensive build and usage instructions
 
 ## Prerequisites
 
@@ -101,10 +111,35 @@ make -f Makefile.simple clean
 - Compatible with both fat PS2 and slim PS2 models
 - Can be run from memory card, USB, or network
 
-## Resources
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. When contributing:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- [PS2Dev](https://github.com/ps2dev) community for PS2SDK and tools
+- gsKit developers for the graphics library
+- PlayStation 2 homebrew community
+
+## 📚 Resources
 
 For more advanced homebrew development, refer to:
 - PS2SDK documentation in `/usr/local/ps2dev/ps2sdk/doc/`
 - gsKit examples and documentation
-- PS2Dev community forums and resources
+- [PS2Dev community forums](https://ps2-home.com/) and resources
 - PlayStation 2 Linux development guides
+- [Awesome PS2](https://github.com/terremoth/awesome-playstation-2) - Curated list of PS2 resources
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a star on GitHub!
