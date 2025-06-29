@@ -138,7 +138,6 @@ For more advanced homebrew development, refer to:
 - gsKit examples and documentation
 - [PS2Dev community forums](https://ps2-home.com/) and resources
 - PlayStation 2 Linux development guides
-- [Awesome PS2](https://github.com/terremoth/awesome-playstation-2) - Curated list of PS2 resources
 
 ## ⭐ Support
 
